@@ -16,4 +16,7 @@ O projeto tem o intuito de ajudar do descarte correto e também fazer uma conex�
 
 # DIA 2
 
+- Back-end da aplicação
+- Rotas e recursos
+- Conexão do Banco
 
