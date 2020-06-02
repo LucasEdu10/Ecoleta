@@ -12,6 +12,7 @@ O projeto tem o intuito de ajudar do descarte correto e também fazer uma conex�
 
 - Conceitos e ambiente
 - Preparação do ambiente para o projeto: instalação do Node.js e criação base do projeto.
+- Criação do ambiente de backend e frontend
 
 # DIA 2
 
