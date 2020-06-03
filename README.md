@@ -19,4 +19,5 @@ O projeto tem o intuito de ajudar do descarte correto e também fazer uma conex�
 - Back-end da aplicação
 - Rotas e recursos
 - Conexão do Banco
+- Funcionalidades da apliação
 
