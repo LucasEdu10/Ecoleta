@@ -21,3 +21,13 @@ O projeto tem o intuito de ajudar do descarte correto e também fazer uma conex�
 - Conexão do Banco
 - Funcionalidades da apliação
 
+# DIA 3
+
+- Front-end da aplicação
+- JSX
+- Construção do HTML
+- Configuração da Navegação
+- Integrando o mapa no formulário
+- Cadastro de ponto de coleta na API
+
+
