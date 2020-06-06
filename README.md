@@ -3,10 +3,10 @@
 - Repositorio criado para a semana NLW, aonde irá contemplar a criação de uma aplicação web e mobile de um projeto cujo o nome é chamado de Ecoleta.
 O projeto tem o intuito de ajudar do descarte correto e também fazer uma conexão entre empresas ou entidades a pessoas que precisam descartas esses resíduos. Aonde neste projeto vamos trabalhar com as seguintes ferramentas:
   
-  - Noje.js
+  - Node.js
   - TypeScript
-  - React && SPA
-  - React Native & Expo
+  - React
+  - React Native
 
 # DIA 1
 
@@ -29,5 +29,9 @@ O projeto tem o intuito de ajudar do descarte correto e também fazer uma conex�
 - Configuração da Navegação
 - Integrando o mapa no formulário
 - Cadastro de ponto de coleta na API
+
+# DIA 4
+
+- Mobile do app
 
 
