@@ -34,4 +34,7 @@ O projeto tem o intuito de ajudar do descarte correto e também fazer uma conex�
 
 - Mobile do app
 
+# DIA 5
+
+- Ajustes finais para a aplicação web
 
