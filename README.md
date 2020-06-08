@@ -38,3 +38,9 @@ O projeto tem o intuito de ajudar do descarte correto e também fazer uma conex�
 
 - Ajustes finais para a aplicação web
 
+
+Segue imagens do projeto:
+
+# WEB
+
+![Initial-Ecoleta.png](/images/Initial-Ecoleta.png)
